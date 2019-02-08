@@ -1,0 +1,20 @@
+Unified Computer System Utility Software is a computer software that help computer users to gain access to some hidden utility programs of windows operating system.
+The purpose of this Software is to allow computer user to centrally manage some of the windows hidden utilities of the following category:
+1. File and Program Executor which Consists of Utilities Like (Run, Command prompt, Calculator, Control Panel, Internet Explorer, Media Palyer, Program Executor, and Notepad.)
+2. Computer Power Utility for performing shutdown operations which includes (Shudown, Restart, Log Off user account, lock Windows Screen, and Hibernating a Computer System) the software also gives user the ability to schedule a shutdown operation, date and time for the operation to execute.
+3. Wireless Manager for connecting to an avaiable open wireless network, viewing lists of wireless networks and managing of wirelest profile.
+
+The reason for this project is that: in windows 8 operating system and above, computer user's now find it difficult to access some of the aforementioned utilities and resources because their location is scattered in the computer system and there is no provisional menu for accessing them. the RUN, notepad, wireless manager, command prompt, calculator, and some other utilities can not be easily accessed like it was form windows XP and windows 7 accessory menu. And the shutdown operations is not fully listed for user accessibility becasuse most of computer users have less knowledge about extreme management ans accessibility of computer system hidden settings and resources.
+
+Solution:
+This project provide individual buttons to access some of the system utility programs Like (Run, Command prompt, Calculator, Control Panel, Internet Explorer, Media Palyer, Program Executor, and Notepad.), and Access any file and applications in a computer system. Manage Some functionalities of a wireless network like connection and disconnedtion, view wireless profile,  and update wireless. And also executes system Shiutdown, Restart, Hibernate, Lock, Log Off, and also schedule time to perform either of the mentioned shutdown options, All in a single software program.
+This is why it is called Unified Computer System Utility Software.
+There is no provision for it as an application to ease user's computer system usability because many computer users anre still trying to adapt with the usage of windows 8 as an operating system.
+
+How It works:
+
+1.Launch The Software and a menu will be displayed consisting of 4 buttons "Power Control", "File and Program", "Wireless", and "Exit".
+2. "Exit": this button helps to exit the software.
+3. "Power Control": this button display interface where user can Choose a power option to execute which could  be "Shutdown","Restart,"Lock","Log Off", or "Hibernate". and user can also schedule a power option.
+4. "Wireless" this button displays interface for user to view and manage lists of stored wireless profiles in a computer, view lists of open wireless account, connect to and disconnect form a wireles network.
+5. "File Program": this button provide access for user to run some computer pasic utility programs which are "Notepad", "Calculator", "Control panel", "Media Palyer", "Internet Explorer", "Command Prompt", and "RUN Utility". and it also gives user the ability open and execute any file and programs, renaming and deleting a file from a computer system.
